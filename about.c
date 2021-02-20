@@ -7,4 +7,5 @@ int sum;
 sum=a+b;
 printf("The sum is %d",sum);
 print("HII");
+print("source code management using git and github-DAY-2");
 }
